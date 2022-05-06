@@ -1,0 +1,9 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  background-color: #797979 ;
+}
